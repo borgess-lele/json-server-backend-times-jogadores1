@@ -1,0 +1,34 @@
+{
+  "times": [
+    {
+      "nome": "novo time ",
+      "id": 1
+    },
+    {
+      "nome": "time2",
+      "id": 3
+    },
+    {
+      "nome": "Time4",
+      "id": 4
+    }
+  ],
+  "jogadores": [
+    {
+      "timeId": 1,
+      "id": 1
+    },
+    {
+      "timeId": 1,
+      "id": 2
+    },
+    {
+      "timeId": 1,
+      "id": 3
+    },
+    {
+      "timeId": 1,
+      "id": 4
+    }
+  ]
+}
